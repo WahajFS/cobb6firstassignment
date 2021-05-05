@@ -8,7 +8,7 @@ Black
 
 3. What is your favorite thing to do? (other than being in my class? lol)
 
-Working on my websites, art, photography, digital designs.
+Working on my websites, art, photography, and digital illustrations.
 
 4. What is your GitHub username?
 
@@ -16,3 +16,6 @@ WahajFS
 
 5. What is the link to the repository for this project?
 
+https://github.com/WahajFS/cobb6firstassignment.git
+
+Wahaj Siddiqui
